@@ -1,0 +1,21 @@
+
+/**
+ * Sailthru logo.
+ */
+
+.logo[data-logo="Sailthru"] {
+  width: 4.321339391508832em;
+}
+
+.logo[data-logo="Sailthru"] > * {
+  background-image: url(images/logo.svg);
+  margin: .165em 0;
+}
+
+.logo[data-logo="Sailthru"][data-color="black"] > * {
+  background-image: url(images/logo-black.svg);
+}
+
+.logo[data-logo="Sailthru"][data-color="white"] > * {
+  background-image: url(images/logo-white.svg);
+}
