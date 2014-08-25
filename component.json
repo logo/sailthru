@@ -3,7 +3,7 @@
   "name": "sailthru",
   "repo": "logo/sailthru",
   "description": "The Sailthru logo.",
-  "version": "0.0.1",
+  "version": "0.2.0",
   "license": "MIT",
   "styles": [
     "style.css"
